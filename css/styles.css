@@ -847,6 +847,7 @@ main.education .educa-exper > .education {
       -ms-flex-direction: column;
           flex-direction: column;
   gap: 1rem;
+  text-align: left;
 }
 
 main.education .educa-exper > .education h4 {
